@@ -2,7 +2,7 @@
 
 **Track:** Data Analytics
 
-**Live dashboard:** https://YOURUSERNAME.github.io/churn-kpi-dashboard/
+**Live dashboard:** https://fr-dev4.github.io/customer-churn-dashboard/
 
 An interactive dashboard that explains churn, retention, revenue risk and customer segments. Built with plain HTML, CSS and JavaScript (no external libraries).
 
